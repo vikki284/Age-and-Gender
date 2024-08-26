@@ -45,5 +45,6 @@ The dataset used in this project consists of images labeled into different categ
   
 ## Results
 The CNN achieved high accuracy on the test set, demonstrating its effectiveness in image classification tasks. The model was able to generalize well, as evidenced by its performance on unseen data.
+
 ![image](https://github.com/user-attachments/assets/8ebdcb72-b200-43bc-bfa5-e82be4ab06c0)
 ![image](https://github.com/user-attachments/assets/9d3042f6-f21b-406d-924b-652110607999)
